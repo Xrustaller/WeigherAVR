@@ -1,13 +1,13 @@
 #define BTN_PIN_TAREE 6
-#define BEEP_PIN 10  // Пин пьезо (при выборе 9 пина, 10 - недоступен из-за шим)
+#define BEEP_PIN 10  // С•РёРЅ РїСЊРµР·Рѕ (РїСЂРё РІС‹Р±РѕСЂРµ 9 РїРёРЅР°, 10 - РЅРµРґРѕСЃС‚СѓРїРµРЅ РёР·-Р·Р° С€РёРј)
 
 #define DT_PIN_TAREE 3
 #define SCK_PIN_TAREE 2
 
-#define SOFT_UART_SPEED 1000 // Скорость Soft-UART
-#define SOFT_UART_PIN 13 // Пин
-#define BUS_ADRESS 0 // Адрес
-#define SOFT_UART_BUFFER 20 // Буфер 
+#define SOFT_UART_SPEED 1000 // вЂ”РєРѕСЂРѕСЃС‚СЊ Soft-UART
+#define SOFT_UART_PIN 13 // С•РёРЅ
+#define BUS_ADRESS 0 // СРґСЂРµСЃ
+#define SOFT_UART_BUFFER 20 // Р…СѓС„РµСЂ 
 
 #include <GyverButton.h>
 #include <HX711_ADC.h>
