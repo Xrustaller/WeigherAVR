@@ -9,7 +9,7 @@
 #define CALIBRATION 2005.0 // 848.0
 
 #define BUS_ID 7
-#define PIN_REDE A1
+#define PIN_REDE A2
 
 #include <GyverButton.h>
 #include <HX711_ADC.h>
